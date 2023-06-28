@@ -1,0 +1,27 @@
+<section class="services" id="services">
+        <div class="max-width">
+            <h2 class="title">Projetos</h2>
+            <div class="serv-content">
+               <div class="card">
+                   <div class="box">
+                    <div class="text">Site da Netflix</div>
+                    <p> Site realizado em HTML e CSS</p>
+                   </div>
+               </div>
+
+               <div class="card">
+                <div class="box">
+                 <div class="text">Formulários</div>
+                 <p> Realizado em HTML</p>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="box">
+                 <div class="text">Projetos no Figma</div>
+                 <p> Ferramentas de prototipagem para criação de projetos</p>
+                </div>
+            </div>
+            </div>
+        </div>
+    </section>
